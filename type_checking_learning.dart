@@ -27,7 +27,7 @@ dynamic whether3="thirty_four";
       print("value is not string");
     }
 dynamic value="19";
-    String str=value as String;
-    print("$value");
+    String valuew=value as String;
+    print("$valuew");
 
 }
